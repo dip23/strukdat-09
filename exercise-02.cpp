@@ -1,7 +1,7 @@
 /*
 Nama         : Difa Bagasputra M
 NPM          : 140810180057
-Program      : Reverse Word (Array)
+Program      : Reverse Word (Linked List)
 Tanggal Buat : 7 Mei 2019
 */
 
